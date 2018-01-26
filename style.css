@@ -2,3 +2,11 @@ header {
     background-color: red;
 }
 
+.bioInfo, .contact {
+    float: left;
+    background-color: green;
+}
+
+.hobbyPic {
+    text-align: center;
+}
